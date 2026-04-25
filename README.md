@@ -2,4 +2,4 @@
 
 **This is me Aarush and welcome to my profile.
 
-- 📫 How to reach me: [Aarush](https://instagram.com/aarusharyal)
+- 📫 How to reach me: [Aarush](https://www.instagram.com/aarush_aryal/)
