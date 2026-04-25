@@ -12,7 +12,11 @@ I'm a first-semester BSc CSIT student at **Tribhuvan University**, Nepal — jus
 - 📍 Based in **Kathmandu, Nepal**
 
 ---
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/aarusharyal/aarusharyal/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/aarusharyal/aarusharyal/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/aarusharyal/aarusharyal/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 ## Projects
 
 ### 🖥️ C Programs (Coursework)
