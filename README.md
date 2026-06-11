@@ -6,7 +6,7 @@ I'm a first-semester BSc CSIT student at **Tribhuvan University**, Nepal — jus
 
 ## About Me
 
-- 🎓 Studying **BSc CSIT** at Tribhuvan University (1st Semester)
+- 🎓 Studying **BSc CSIT** at Tribhuvan University (2nd Semester)
 - 💻 Currently learning **C programming** — writing and committing code as I go through my coursework
 - 🌐 Built a project using **HTML & CSS** — my first step into web development
 - 📍 Based in **Kathmandu, Nepal**
