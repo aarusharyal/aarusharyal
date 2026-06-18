@@ -7,7 +7,7 @@ I'm a first-semester BSc CSIT student at **Tribhuvan University**, Nepal — jus
 ## About Me
 
 - 🎓 Studying **BSc CSIT** at Tribhuvan University (2nd Semester)
-- 💻 Currently learning **C programming** — writing and committing code as I go through my coursework
+- 💻 Currently learning **C programming** & **C++** — writing and committing code as I go through my coursework
 - 🌐 Built a project using **HTML & CSS** — my first step into web development
 - 📍 Based in **Kathmandu, Nepal**
 
@@ -40,8 +40,8 @@ My first web project built with plain HTML and CSS. A hands-on exploration of st
 
 | Area | Tools / Languages |
 |------|-------------------|
-| Programming | C |
-| Web | HTML, CSS |
+| Programming | C ,C++ |
+| Web | HTML, CSS, JavaScript |
 | Version Control | Git, GitHub |
 
 ---
