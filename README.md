@@ -1,6 +1,6 @@
 # Hi, I'm Aarush Aryal 👋
 
-I'm a first-semester BSc CSIT student at **Tribhuvan University**, Nepal — just starting my journey in the world of Computer Science and Information Technology. I'm learning the fundamentals, writing my first programs, and building things one step at a time.
+I'm a second-semester BSc CSIT student at **Tribhuvan University**, Nepal — just starting my journey in the world of Computer Science and Information Technology. I'm learning the fundamentals, writing my first programs, and building things one step at a time.
 
 ---
 
