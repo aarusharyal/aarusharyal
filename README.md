@@ -28,6 +28,11 @@ A collection of C programs written during my first semester — covering fundame
 > 📂 [github.com/aarusharyal](https://github.com/aarusharyal/C)
 
 ---
+### 🖥️ C++ Programs (Coursework)
+A collection of C++ programs written during my second semester — covering fundamentals like conditionals, loops, functions, arrays, and more. Small but steady commits as I learn.
+
+> 📂 [github.com/aarusharyal](https://github.com/aarusharyal/CPP)
+---
 
 ### 🌐 HTML & CSS Project
 My first web project built with plain HTML and CSS. A hands-on exploration of structuring web pages and styling them from scratch.
