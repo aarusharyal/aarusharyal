@@ -40,6 +40,10 @@ My first web project built with plain HTML and CSS. A hands-on exploration of st
 > 📂 [github.com/aarusharyal](https://github.com/aarusharyal/Html_Project)
 
 ---
+### JavaScript (Node)
+A simple calculator made using nodejs modules to peform basic arithmetic operations
+> 📂 [github.com/aarusharyal](https://github.com/aarusharyal/calculatorModule)
+---
 
 ## Skills & Currently Learning
 
