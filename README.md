@@ -19,6 +19,8 @@ I'm a second-semester BSc CSIT student at **Tribhuvan University**, Nepal — ju
 </picture>
 
 ---
+[![GitHub Streak](https://github-readme-streak-stats-rust-rho.vercel.app?user=aarusharyal&theme=github-dark-dimmed&border_radius=10&exclude_days=Sat)](https://git.io/streak-stats)
+---
 
 ## Projects
 
